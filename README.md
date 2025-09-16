@@ -6,7 +6,7 @@
 
 <!-- Sparkly Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Jh6wYQz.gif" width="600" alt="Purple sparkles banner"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" alt="Purple sparkles banner"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="400" alt="Purple sparkles" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400" alt="Purple sparkles" />
 </p>
 
 <h3 align="center">💜 Keep Shining & Keep Coding 💜</h3>
