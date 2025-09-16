@@ -43,14 +43,6 @@
 
 ---
 
-### ✨ Cool Badges
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" />
-</p>
-
----
 
 ### 🌠 Connect with Me
 <p align="center">
