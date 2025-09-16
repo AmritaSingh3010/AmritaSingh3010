@@ -4,9 +4,9 @@
 
 ---
 
-<!-- Sparkly Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" alt="Purple sparkles banner"/>
+  <img src="https://th.bing.com/th/id/OIP.b36SHXXz74uWuV8GInfYcgHaEJ?w=303&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="600" alt="Amrita's GitHub Banner"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400" alt="Purple sparkles" />
+  <img src="https://i.imgur.com/LyHic3i.gif" width="400" alt="Purple sparkles" />
 </p>
 
 <h3 align="center">💜 Keep Shining & Keep Coding 💜</h3>
