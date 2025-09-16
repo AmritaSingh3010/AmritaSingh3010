@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">✨ Hey there, I'm <span style="color: #a020f0;">Your Name</span> ✨</h1>
+<h1 align="center">✨ Hey there, I'm <span style="color: #a020f0;">Amrita Singh</span> ✨</h1>
 <h3 align="center">💻 Aspiring Computer Science Engineer @ Narula Institute of Technology 💻</h3>
 
 ---
 
-<!-- Sparkly GIF or Banner -->
+<!-- Sparkly Banner -->
 <p align="center">
   <img src="https://i.imgur.com/Jh6wYQz.gif" width="600" alt="Purple sparkles banner"/>
 </p>
@@ -14,7 +14,7 @@
 ### 🌌 About Me
 - 🎓 3rd Year Computer Science Engineering Student  
 - 💜 Tech Stack: **Java, HTML, CSS**  
-- 🚀 Exploring Open Source & building cool projects  
+- 🚀 Exploring Open Source & building cool projects on GitHub  
 - 🌟 Passionate about **development, design, and learning new skills**  
 
 ---
@@ -30,15 +30,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=ba55d3&icon_color=dda0dd" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmritaSingh3010&show_icons=true&theme=tokyonight&hide_border=true&title_color=ba55d3&icon_color=dda0dd" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=ba55d3&fire=dda0dd" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritaSingh3010&theme=tokyonight&hide_border=true&ring=ba55d3&fire=dda0dd" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=ba55d3" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritaSingh3010&layout=compact&theme=tokyonight&hide_border=true&title_color=ba55d3" alt="Top Languages"/>
 </p>
 
 ---
@@ -54,10 +54,10 @@
 
 ### 🌠 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/amrita-singh-94697a293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DA70D6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
